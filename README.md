@@ -25,7 +25,7 @@ Given a sequence of numbers, the program must:
 
 ### Project Structure
 
-```
+
 guess-it/
 ├── ai/                    # AI guesser implementations
 │   ├── big-range
@@ -36,7 +36,6 @@ guess-it/
 ├── index.html
 ├── index.js
 └── docker-compose.yml
-```
 
 ## 🛠️ Installation & Usage
 
